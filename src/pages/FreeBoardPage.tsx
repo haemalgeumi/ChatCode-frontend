@@ -10,6 +10,7 @@ import PaginationRounded from '../components/board/Pagination';
 import Divider from '../components/board/Divider';
 import FreeBoardList from '../components/board/FreeBoardList';
 import { Filters } from '../types/filter';
+
 import Navbar from '../components/header/NavBar';
 import { INITIAL_FILTERS } from '../constants/filters';
 
